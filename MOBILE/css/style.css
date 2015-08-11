@@ -106,10 +106,15 @@ body{
 .wrap_page.sub_2 .block_btn{
 	top:93%;
 }
+.wrap_page.sub_3 .block_btn{
+	top:78%;
+}
 .wrap_page .block_btn img{
 	width:45%;
 }
-
+.wrap_page.sub_3 .block_btn img{
+	width:55%;
+}
 
 .wrap_page .block_check{
 	position:absolute;
@@ -149,6 +154,26 @@ body{
 	background:#cdeef6;
 }
 
+
+.wrap_page .block_thnk{
+	position:absolute;
+	width:100%;
+	top:62%;
+}
+.wrap_page .block_thnk .btn{
+	width:60%;
+	margin:0 20%;
+	text-align:center;
+}
+.wrap_page .block_thnk .btn a{
+	width:25%;
+	display:block;
+	float:left;
+	text-align:center;
+}
+.wrap_page .block_thnk .btn a img{
+	width:91%;
+}
 
 
 /*popup common*/
