@@ -107,7 +107,7 @@ body{
 	top:93%;
 }
 .wrap_page.sub_3 .block_btn{
-	top:78%;
+	top:80%;
 }
 .wrap_page .block_btn img{
 	width:45%;
@@ -183,11 +183,27 @@ body{
 }
 .popup_wrap .p_mid.p_position{
 	position:relative;
-	width:95%;
+	width:90%;
 	z-index:200;
 	margin:0 auto;
-	
 }
+.pop_img,
+.pop_img img{
+	width:100%;
+}
+
+.popup_wrap .p_mid.p_position.alert_1 .block_notice a{
+	display:block;
+	position:absolute;
+	top:55%;
+	width:50%;
+	height:40px;
+	margin-left:25%;
+	text-align:center;
+	text-indent:-99999px;
+}
+
+
 
 .popup_wrap .p_mid.p_position .block_close {
 	width:100%;
@@ -206,8 +222,23 @@ body{
 	width:100%;
 }
 
-
-
+.popup_wrap .p_mid.p_position.agree .block_content .inner .txt {
+    width: 80%;
+    position: absolute;
+    overflow: scroll;
+    height: 310px;
+    margin-left: 10%;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: 12px;
+}
+.popup_wrap .p_mid.p_position.agree .block_content .inner .txt.no {
+	overflow: hidden;
+}
+.popup_wrap .p_mid.p_position.agree .block_content .inner .bg,
+.popup_wrap .p_mid.p_position.agree .block_content .inner .bg img{
+	width:100%;
+}
 
 
 /*clearfix*/
