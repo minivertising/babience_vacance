@@ -122,6 +122,12 @@ body{
 	width:55%;
 }
 
+.wrap_page.sub_4 .block_btn{
+	top:78%;
+}
+.wrap_page.sub_4 .block_btn img{
+	width:55%;
+}
 .wrap_page .block_check{
 	position:absolute;
 	width:100%;
@@ -179,6 +185,17 @@ body{
 }
 .wrap_page .block_thnk .btn a img{
 	width:91%;
+}
+
+
+
+.wrap_page .block_code{
+	position:absolute;
+	top:48%;
+	text-align:center;
+	width:100%;
+	font-weight:bold;
+	font-size:24px;
 }
 
 
