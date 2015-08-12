@@ -82,6 +82,7 @@ body{
 .block_input .inner .one .input{
 	float:left;
 	width:93%;
+	margin-bottom:4px;
 }
 .block_input .inner .one .input input{
 	background:#fff;
@@ -110,7 +111,7 @@ body{
 	top:76%;
 }
 .wrap_page.sub_2 .block_btn{
-	top:98%;
+	top:100%;
 }
 .wrap_page.sub_3 .block_btn{
 	top:80%;
@@ -131,7 +132,7 @@ body{
 .wrap_page .block_check{
 	position:absolute;
 	width:100%;
-	top:73%;
+	top:74%;
 }
 
 .wrap_page .block_check .check {
@@ -164,6 +165,7 @@ body{
 
 .wrap_page .block_check .check.one {
 	background:#cdeef6;
+	margin-bottom:4px;
 }
 
 
